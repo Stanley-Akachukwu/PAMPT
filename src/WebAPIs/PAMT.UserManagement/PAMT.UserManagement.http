@@ -1,0 +1,6 @@
+@PAMT.UserManagement_HostAddress = http://localhost:5090
+
+GET {{PAMT.UserManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

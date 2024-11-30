@@ -1,0 +1,6 @@
+@PAMPT.EHR_HostAddress = http://localhost:5074
+
+GET {{PAMPT.EHR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

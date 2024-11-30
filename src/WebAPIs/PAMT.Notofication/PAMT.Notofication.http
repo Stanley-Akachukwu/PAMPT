@@ -1,0 +1,6 @@
+@PAMT.Notofication_HostAddress = http://localhost:5175
+
+GET {{PAMT.Notofication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

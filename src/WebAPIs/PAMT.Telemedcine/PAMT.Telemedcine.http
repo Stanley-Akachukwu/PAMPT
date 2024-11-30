@@ -1,0 +1,6 @@
+@PAMT.Telemedcine_HostAddress = http://localhost:5214
+
+GET {{PAMT.Telemedcine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
